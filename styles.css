@@ -570,7 +570,7 @@ a:hover {
 
 .pub-award {
     font-size: 0.9rem;
-    color: #f59e0b;
+    color: #f59e0b !important;
     margin: 0.3rem 0;
     font-weight: 500;
 }
