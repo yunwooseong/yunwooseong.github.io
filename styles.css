@@ -620,18 +620,6 @@ a:hover {
     font-size: 0.75rem;
 }
 
-.pub-badge-patent {
-    background: #b45309;
-    font-size: 0.78rem;
-}
-
-.pub-title-ko {
-    color: var(--text-secondary);
-    font-size: 0.9rem;
-    line-height: 1.5;
-    margin-bottom: 0.4rem;
-}
-
 .pub-body {
     min-width: 0;
 }
